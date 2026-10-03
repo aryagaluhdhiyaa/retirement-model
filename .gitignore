@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+# Regenerable strategy return series (private backtest — never commit)
+data/history_strategy.csv
+data/history_strategy_meta.json

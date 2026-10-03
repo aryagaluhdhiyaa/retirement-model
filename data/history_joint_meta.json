@@ -1,0 +1,8 @@
+{
+  "n_months": 95,
+  "start": "2017-02-28",
+  "end": "2024-12-31",
+  "stock_cagr": 0.107793997943048,
+  "bond_cagr": 0.23562120267429099,
+  "note": "joint ACWI stock + My Strategy for 50/50 accumulation bootstrap"
+}

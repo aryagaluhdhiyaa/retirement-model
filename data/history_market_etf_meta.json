@@ -1,0 +1,9 @@
+{
+  "stock_ticker": "ACWI",
+  "bond_ticker": "EMB",
+  "n_months": 222,
+  "start": "2008-04-30",
+  "end": "2026-09-30",
+  "stock_cagr": 0.08650088657994126,
+  "bond_cagr": 0.04595361526322872
+}

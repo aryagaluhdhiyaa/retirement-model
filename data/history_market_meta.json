@@ -1,0 +1,14 @@
+{
+  "source": "DMS Global (Credit Suisse Yearbook 1900-2023) synthetic, SBN-anchored bond leg",
+  "stock_nominal": 0.072,
+  "bond_nominal": 0.06,
+  "stock_vol_ann": 0.17,
+  "bond_vol_ann": 0.115,
+  "n_months": 1488,
+  "start": "1900-01-31",
+  "end": "2023-12-31",
+  "stock_cagr": 0.07200000000000051,
+  "bond_cagr": 0.05999999999999961,
+  "bond_ticker": "Indonesian SBN (synthetic 6% + realized XISB.JK/EMB vol, DMS stock 7.2%)",
+  "note": "123y t-fat tails df6/8, 4% joint crashes, corr 0.1 \u2014 avoids US exceptionalism (US 6.5% real) and recent valuation-driven bull (ACWI 12.7% 2017-2026). Bond leg 6% = user-confirmed SBN anchor (BI Rate is a policy-rate level, not a return series). ETF 222mo saved as history_market_etf.csv"
+}
